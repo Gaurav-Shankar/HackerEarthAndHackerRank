@@ -1,0 +1,6 @@
+
+
+1.Your system must already be activated.
+2.Close all running applications
+3.Run WPE.exe
+4.The application will automatically restart your system.
